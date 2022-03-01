@@ -1,0 +1,14 @@
+-perfectworld -cl_forthpreload 1 -freq 60 -tickrate 128 -novid  -console -novid +rate 786432 +cl_interp_ratio 2 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp 0.03100 +exec autoexec.cfg
+CSGO-OUN7Y-HdfJr-v75Ma-dbyX5-qk3cQ
+cl_crosshairalpha 200; cl_crosshaircolor 4; cl_crosshairdot 0; cl_crosshairgap -2; cl_crosshairsize 3; cl_crosshairstyle 4; cl_crosshairusealpha 1; cl_crosshairthickness 1; cl_crosshair_outlinethickness 1; cl_crosshair_drawoutline 1;
+2525222222212222222022222227222222292222222222222226222222212222222922222225222222282523252122242222222322282521222025225351242223285120525CC52FDB6
+bind q "use weapon_knife;slot2;slot1; use weapon_deagle; use weapon_awp;use weapon _ssg08"
+ᵀʰᵉ ˢᵉᵃ ⁱˢ ᵇˡᵘᵉ ᵃⁿᵈ ᵈᵉᵉᵖ, ˡⁱᵏᵉ ʸᵒᵘʳ ᵉʸᵉˢ    ᴸᵒᵛᵉ ⁱˢ ᵗʰᵉ ᵐᵒˢᵗ ᵈⁱᶠᶠⁱᶜᵘˡᵗ ᵗʰⁱⁿᵍ ⁱⁿ ᵗʰᵉ ʷᵒʳˡᵈ     ᴳᵒ ᶠᵒʳ ʷʰᵃᵗᵉᵛᵉʳ ᵐᵃᵏᵉˢ ʸᵒᵘ ʰᵃᵖᵖʸ.
+ˢᵃˢᵘᵏᵉ-
+CSGO-zdDq2-iJXmy-qKkFV-YTJKD-kq8CH
+-perfectworld -noforcemparms -highpriority -nojoy -processheap -cl_forthpreload 1 -freq 60 -tickrate 128 -novid  -console +rate 786432 +cl_interp_ratio 2 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp 0.03100 +exec autoexec.cfg
+cl_crosshairalpha 255; cl_crosshaircolor 5; cl_crosshairdot 0; cl_crosshairgap -4; cl_crosshairsize 2; cl_crosshairstyle 4; cl_crosshairusealpha 1; cl_crosshairthickness 1; cl_crosshair_drawoutline 0; cl_crosshair_sniper_width 1; cl_crosshaircolor_r 255; cl_crosshaircolor_g 255; cl_crosshaircolor_b 250;
+cl_crosshairalpha 255;cl_crosshaircolor 5;cl_crosshairdot 0;cl_crosshairgap -4;cl_crosshairsize 1;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 1;cl_crosshair_drawoutline 0;cl_crosshair_sniper_width 1;cl_crosshaircolor_r 255;cl_crosshaircolor_g 255;cl_crosshaircolor_b 255;
+CSGO-33Cxj-9rTxL-UYazL-HK7rN-hZVvD
+CSGO-Pz2DZ-HPvk2-TCXRr-xrS8x-rquLA
+CSGO-rzSDG-eaFpj-cdpMz-UhOfA-VTGOP
